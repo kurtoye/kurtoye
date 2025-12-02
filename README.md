@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Kurt, a software engineer based in London.
+I'm Kurt, a backend engineer who builds systems that are clear, fast, and designed to withstand pressure
 
-I mostly work on backend systems using Python and Java, and I'm currently focusing on strengthening my skills in this department and cloud engineering.
+Right now, I’m focusing on backend engineering with Python and Java, and on building production-ready systems through cloud infrastructure.
 
 This profile is where I upload projects I'm actively building or experimenting with. Everything is written from scratch.
 ## Tools & Tech
