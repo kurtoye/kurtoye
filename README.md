@@ -1,16 +1,16 @@
 ## Hi there 👋
+I'm Kurt, a software engineer based in London.
 
-<!--
-**kurtoye/kurtoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work on backend systems using Python and Java, and I'm currently focusing on strengthening my skills in this department and cloud engineering.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I upload projects I'm actively building or experimenting with. Everything is written from scratch.
+## Tools & Tech
+* Python, Java, SQL
+* Flask, Spring Boot, REST APIs
+* Docker, Linux, Git
+* Firebase, Google Cloud
+## A Bit About Me
+* 💪 I’m consistent with the gym and enjoy pushing my physical limits
+* 📚♟️ I’m getting into chess and enjoy reading 
+* 🐱 I have two cats
+* 🧩 I like building systems that are clean, efficient, and effective
