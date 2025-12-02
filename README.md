@@ -11,6 +11,6 @@ This profile is where I upload projects I'm actively building or experimenting w
 * Firebase, Google Cloud
 ## A Bit About Me
 * 💪 I’m consistent with the gym and enjoy pushing my physical limits
-* 📚♟️ I’m getting into chess and enjoy reading 
+* ♟️ I’ve recently got into chess and enjoy reading 
 * 🐱 I have two cats
 * 🧩 I like building systems that are clean, efficient, and effective
